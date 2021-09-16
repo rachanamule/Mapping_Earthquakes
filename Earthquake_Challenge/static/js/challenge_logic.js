@@ -49,7 +49,7 @@ let tectonic = new L.layerGroup();
 let overlays = {
   "Earthquakes": allEarthquakes,
   "MajorEarthquakes": majorEQ,
-  "Tectonic": tectonic
+  "Tectonic Plates": tectonic
 };
 
 // Then we add a control to the map that will allow the user to change which
